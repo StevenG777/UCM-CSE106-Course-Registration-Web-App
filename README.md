@@ -1,3 +1,4 @@
+# UCM CSE106 Course Registration Web Application
 ## Descriptions:
 The Student Registration System aimed to provide an interactive interface for 
 - Students to register for courses, remove the courses, and view course detailed information such as enrollment details
